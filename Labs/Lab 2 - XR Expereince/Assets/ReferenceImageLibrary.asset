@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5317956388659599580
+  m_GuidHigh: 14584745533597603204
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4984081493801522816
+      m_GuidHigh: 15975759432327312038
+    m_SerializedTextureGuid:
+      m_GuidLow: 9391384220878074194
+      m_GuidHigh: 6815612071048938776
+    m_Size: {x: 0.5, y: 0.30929416}
+    m_SpecifySize: 1
+    m_Name: Logo-TotalEnergies-2021-1
+    m_Texture: {fileID: 2800000, guid: f2a57152e63082541885bc6511eb955e, type: 3}
