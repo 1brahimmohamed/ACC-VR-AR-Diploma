@@ -7,8 +7,10 @@ public class SceneControl : MonoBehaviour
 {
     public void loadScene()
     {
-        string scene1 = "SampleScene";
-        string scene2 = "SC2";
+        string scene1 = "DebugUI";
+        string scene2 = "DeviceUI";
+        string scene3 = "LevelUI";
+        string scene4 = "morgue";
 
         string ScreenName = SceneManager.GetActiveScene().name;
         
